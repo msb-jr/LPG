@@ -1,4 +1,4 @@
-# Linear LP Gradient Analysis
+# Lactate–Pyruvate Gradient (LPG) Analysis
 
 ## Citation
 
